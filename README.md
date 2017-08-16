@@ -17,5 +17,5 @@
 
 Visit my likedin profile:
 
-[Link](https://www.linkedin.com/in/daniel-ferreira-da-silva-16953373)
+[linkedin](https://www.linkedin.com/in/daniel-ferreira-da-silva-16953373)
 
