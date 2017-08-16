@@ -11,22 +11,25 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Daniel Ferreira
 
-- Bulleted
-- List
+## FRONT-END
+- javascript/jQuery.
+- HTML5.
+- CSS/CSS3.
+- Bootstrap.
 
-1. Numbered
-2. List
+## BACK-END
+- ASP.NET Web Forms/ ASP.NET MVC C#.
+- C# .NET/ ADO.NET/ LINQ.
+- EntityFrameWork 6.0/ SQL SERVER 2005/2008/2012.
+- NODE JS.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.linkedin.com/in/daniel-ferreira-da-silva-16953373)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
