@@ -12,6 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Daniel Ferreira
+- 24 years old.
+- Technology lover.
+- Open source lover.
 
 ## FRONT-END
 - javascript/jQuery.
@@ -25,7 +28,7 @@ Syntax highlighted code block
 - EntityFrameWork 6.0/ SQL SERVER 2005/2008/2012.
 - NODE JS.
 
-**Bold** and _Italic_ and `Code` text
+Visit my likedin profile:
 
 [Link](https://www.linkedin.com/in/daniel-ferreira-da-silva-16953373)
 ```
